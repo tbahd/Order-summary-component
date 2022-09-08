@@ -61,7 +61,7 @@ I'm definitely going to continue learning more about flexbox as it makes positio
 
 ## Author
 
-- Website - [Tbahd](olukolejames.netlify.app)
+- Website - [Tbahd](https://olukolejames.netlify.app)
 - Frontend Mentor - [tbahd](https://www.frontendmentor.io/profile/tbahd)
 
 
