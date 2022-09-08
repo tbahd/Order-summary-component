@@ -30,8 +30,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://www.frontendmentor.io/solutions/order-summary-component-using-css-components-and-flexbox-2eyayMZ-hv)
+- Live Site URL:(https://order-summary-compoent.netlify.app/)
+
 
 
 ### Built with
@@ -61,7 +62,7 @@ I'm definitely going to continue learning more about flexbox as it makes positio
 ## Author
 
 - Website - [Tbahd](olukolejames.netlify.app)
-- Frontend Mentor - [@yourusername](https://www.      frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/tbahd)
 
 
 
