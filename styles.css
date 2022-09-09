@@ -12,9 +12,9 @@
     --Brightblue: hsl(245, 75%, 52%);
 }
 body{
-    background: linear-gradient(to top, hsl(225, 100%, 94%), hsl(225, 100%, 94%)), url(/images/pattern-background-desktop.svg);
-    background-position: center;
-    background-size: cover;
+    background: hsl(225, 100%, 94%) url(/images/pattern-background-desktop.svg);
+    background-position: top;
+    background-size: 100% 50vmin;
     background-repeat: no-repeat;
     height: 100vh;
     display: flex;
@@ -24,7 +24,8 @@ body{
 }
 .container{
     background: var(--BoxColor);
-    width: 28%;
+    max-width: 420px;
+    min-width: 280px;
     border-radius: 1rem;
     text-align: center;
     font-size: 1rem;
