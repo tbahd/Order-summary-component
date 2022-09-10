@@ -38,7 +38,7 @@ body{
 .content{
     padding: 2rem;
 }
-.content h2{
+.content h1{
     margin-bottom: 1rem;
     color: var(--Headcolor);
     font-weight: 900;
@@ -64,9 +64,10 @@ body{
     margin-right: auto;
     text-align: initial;
 }
-.mini-text h5{
+.mini-text h2{
     color: var(--Headcolor);
     font-weight: 900;
+    font-size: 1.1rem;
 }
 .mini-text > p{
     color: var(--ParColor);
